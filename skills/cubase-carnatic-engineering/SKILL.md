@@ -7,7 +7,7 @@ description: Version-aware Cubase guidance for recording, editing, mixing, maste
 
 ## Operating Rule
 
-Use the local wiki at `/Users/rangaprakash/.codex/knowledge/cubase-carnatic` as the persistent knowledge base. Treat it as a maintained wiki, not a one-off notes folder.
+Use the local wiki at `/Users/rangaprakash/.gemini/antigravity/knowledge/cubase-carnatic` as the persistent knowledge base. Treat it as a maintained wiki, not a one-off notes folder.
 
 Before giving actionable settings, load saved defaults from `wiki/user-defaults.md`. Treat the saved Cubase version as configuration, not a question to repeat every time.
 
@@ -22,7 +22,7 @@ When local environment matters, run `scripts/detect_cubase.py` before advising. 
 
 ## Answer Workflow
 
-1. Read `/Users/rangaprakash/.codex/knowledge/cubase-carnatic/wiki/index.md` first.
+1. Read `/Users/rangaprakash/.gemini/antigravity/knowledge/cubase-carnatic/wiki/index.md` first.
 2. Read `wiki/user-defaults.md` for saved version and preferences.
 3. Search the wiki with `rg` for the topic, Cubase version, and instrument/mix context.
 4. Run `scripts/detect_cubase.py` when installation, local plug-ins, audio setup, or tool availability could change the answer.

@@ -1,6 +1,6 @@
 # Wiki Schema
 
-Root: `/Users/rangaprakash/.codex/knowledge/cubase-carnatic`
+Root: `/Users/rangaprakash/.gemini/antigravity/knowledge/cubase-carnatic`
 
 ## Directories
 

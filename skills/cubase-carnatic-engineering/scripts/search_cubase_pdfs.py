@@ -10,7 +10,7 @@ from pathlib import Path
 from pypdf import PdfReader
 
 
-KB_RAW = Path("/Users/rangaprakash/.codex/knowledge/cubase-carnatic/raw")
+KB_RAW = Path("/Users/rangaprakash/.gemini/antigravity/knowledge/cubase-carnatic/raw")
 
 
 def compact(text: str) -> str:
