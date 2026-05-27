@@ -1,0 +1,7 @@
+interface:
+  display_name: "Cubase Carnatic Engineering"
+  short_description: "Cubase help for Carnatic audio work"
+  default_prompt: "Use $cubase-carnatic-engineering to answer my Cubase recording, mixing, mastering, or Carnatic production question with version-aware steps."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,9 @@
+{
+  "name": "cubase-carnatic-engineering",
+  "version": "1.0.0",
+  "description": "Version-aware Cubase guidance for recording, editing, mixing, mastering, sound engineering, room-constrained production, and Carnatic music workflows.",
+  "author": {
+    "name": "Ranga Prakash"
+  },
+  "license": "Apache 2.0"
+}
